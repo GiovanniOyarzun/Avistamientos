@@ -28,10 +28,11 @@ Vista del bucket una vez creado:
 
 Creamos un dataset en BigQuery con el nombre `ovni`.
 
-![Dataset 1](https://github.com/user-attachments/assets/a2a05a2e-0f12-48ab-a506-92a4ddc301ec)  
+![Creación del dataset](https://github.com/user-attachments/assets/a2a05a2e-0f12-48ab-a506-92a4ddc301ec)
 
-Creacion del dataset en el proyecto
-![Dataset 2](https://github.com/user-attachments/assets/3590bc07-0962-4c5f-8e8d-c8fda5073ef4)
+### Vista de la creación del dataset en el proyecto
+![Vista del dataset](https://github.com/user-attachments/assets/3590bc07-0962-4c5f-8e8d-c8fda5073ef4)
+
 
 ---
 
