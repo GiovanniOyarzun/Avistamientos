@@ -1,6 +1,6 @@
 # Proyecto: Avistamientos OVNI
 
-Este proyecto documenta paso a paso el procesamiento de datos de avistamientos de OVNIs utilizando herramientas de Google Cloud Platform (GCP), como Cloud Storage, BigQuery, Dataprep y Looker Studio.
+Este proyecto documenta paso a paso el procesamiento de datos de avistamientos de OVNIs utilizando herramientas de Google Cloud Platform, como Cloud Storage, BigQuery, Dataprep y Looker Studio.
 
 ---
 
