@@ -105,7 +105,7 @@ Tuvimos un inconveniente con la primera tabla, por lo que se debió crear una nu
 
 Ejecutamos las siguientes 3 consultas para validar los datos cargados:
 
-![Consulta 1](https://github.com/user-attachments/assets/4b1a364c-6cdd-4a25-af6f-f63ecc3d0d42)  
+![Consulta 1](https://github.com/user-attachments/assets/4b1a364c-6cdd-4a25-af6e-f63ecc3d0d42)
 ![Consulta 2](https://github.com/user-attachments/assets/ad169881-b921-4b4c-820c-ad5c1fceb79d)  
 ![Consulta 3](https://github.com/user-attachments/assets/112dfe9b-1137-4d7a-bdd1-15dcd11ee72c)
 
