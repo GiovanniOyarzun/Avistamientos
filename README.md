@@ -49,9 +49,12 @@ Vemos la vista previa y podemos observar que todos los datos se cargaron correct
 
 13. luego de ejecutar las consultas estas las pasaremos a graficos en loocker studio:
 
-consulta n1: ![image](https://github.com/user-attachments/assets/a00c7d12-fbd6-462e-906c-9761f0d41b13)
-consulta n2: ![image](https://github.com/user-attachments/assets/a98acdc7-0899-4da0-984a-97e9e076335b)
-consulta n3: ![image](https://github.com/user-attachments/assets/ff761e12-19b8-4519-95d7-91e14256e324)
+consulta n1: 
+![image](https://github.com/user-attachments/assets/a00c7d12-fbd6-462e-906c-9761f0d41b13)
+consulta n2: 
+![image](https://github.com/user-attachments/assets/a98acdc7-0899-4da0-984a-97e9e076335b)
+consulta n3: 
+![image](https://github.com/user-attachments/assets/ff761e12-19b8-4519-95d7-91e14256e324)
 
 
 
